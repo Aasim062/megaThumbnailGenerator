@@ -8,3 +8,4 @@ follow these steps :
 4> run the downloading script (make sure to enter the correct text file name)
 5>simultaneously run the deleting script also.
 in these way you will get your thumbnail being uploaded.........to run the multiple terminal your device must be compatible and the internet connectivity must be stable and fast.
+MAKE SURE YOU RUN EVERY THING IN STEPS(*_*)
